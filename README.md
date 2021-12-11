@@ -2,7 +2,7 @@
 Hướng dẫn chạy project: <br>
 1. Tạo project mới
 2. Coppy các tệp hiện tại vào chung folder solution
-3. Mở file game_xep_gach.cpp trong visual studio
+3. Mở file main.cpp trong visual studio
 
 Sinh viên thực hiện: <br>
 Phạm Chí Năng<br>
